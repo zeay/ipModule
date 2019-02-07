@@ -1,0 +1,14 @@
+{
+  "name": "ipmodule",
+  "version": "0.0.1",
+  "description": "Ip module to get user ip and location",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Kumar Saurabh (Beupy RRC Company)",
+  "license": "ISC",
+  "dependencies": {
+    "geoip-lite": "^1.3.6"
+  }
+}
